@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class LC5 {
+public class LC15 {
     public List<List<Integer>> threeSum(int[] nums){
         List<List<Integer>> res = new ArrayList<>();
         Arrays.sort(nums);
