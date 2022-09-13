@@ -1,7 +1,6 @@
 package com.Leetcode.BFS;
 
-import java.util.LinkedList;
-import java.util.Queue;
+import java.util.*;
 
 public class LC200 {
     //number of island
@@ -32,5 +31,6 @@ public class LC200 {
             }
             grid[x][y] = '0';
         }
+
     }
 }
